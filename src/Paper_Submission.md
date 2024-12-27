@@ -3,7 +3,7 @@ The review process is single-blinded. There is no need for authors to mask their
 
 All papers must be submitted through EasyChair system, via the following link. The submission site is now open.
 
-[https://easychair.org/conferences/?conf=gdma2024](https://easychair.org/conferences/?conf=gdma2024)
+[https://easychair.org/conferences/?conf=gdma2024](https://easychair.org/conferences/?conf=gdma2025)
 
 The conference proceedings, including all accepted papers, will be published in the Springer Lecture Notes in Computer Science (LNCS) series. Authors should avoid the use of non-English fonts to avoid problems with printing and viewing the submissions. All accepted papers MUST follow strictly the instructions for LNCS Authors. Springer LNCS site offers style files and information: [http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0)
 
