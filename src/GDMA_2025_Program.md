@@ -8,7 +8,7 @@ GDMA 2025 Program
 
 Keynote speaker bio  
   Dr. Ming Hu  
-  He is a research scientist at Singapore Management University. Previously, he was a research fellow at Nanyang Technological University (NTU), Singapore. His research interests include the design and construction of AI software and systems, federated learning, and Trustworthy AI. He has published 30+ research papers in top conferences or journals, such as RTSS, DAC, ICDE, KDD, ICSE, FSE, NeurIPS, TC, and TCAD. He has won the FSE2024  “Distinguished Paper Award”.
+  He is a research scientist at Singapore Management University. Previously, he was a research fellow at Nanyang Technological University (NTU), Singapore. His research interests include the design and construction of AI software and systems, federated learning, and Trustworthy AI. He has published 30+ research papers in top conferences or journals, such as RTSS, DAC, ICDE, KDD, ICSE, FSE, NeurIPS, TC, and TCAD. He has won the FSE2024 “Distinguished Paper Award”.
 
   Title:  
   Optimization Algorithm and Framework Design for Federated Learning  
